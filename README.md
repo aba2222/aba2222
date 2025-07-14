@@ -1,7 +1,7 @@
 ## Hi there
 
-- I like C/C++.
-- I’m currently working on GalaxaOS.
+- I like C/C++ and python.
+- I’m currently working on GalaxaOS and something new.
 - You can contact me by [email](mailto:ABCSSS2021@outlook.com).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
